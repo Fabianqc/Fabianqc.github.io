@@ -22,8 +22,8 @@ body{
 }
 
 #Div_Secundario{
-    max-height: 450px;
-    width: 450px;
+
+    width: 350px;
     padding: 9px;
     border: 1px solid #3498db;
     border-radius: 15px;
